@@ -1,2 +1,2 @@
-# Python-training-public
-Output from "Python developer" training by Laba
+# Python developer
+This is output from "Python developer" training by Laba
